@@ -1,0 +1,19 @@
+{
+	"name": "lab-3",
+	"version": "1.0.0",
+	"description": "Lab 3",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node ./src/index.js"
+	},
+	"author": "dysq",
+	"license": "ISC",
+	"type": "commonjs",
+	"dependencies": {
+		"canvas": "^2.11.2"
+	},
+	"devDependencies": {
+		"prettier": "^3.2.5"
+	}
+}
